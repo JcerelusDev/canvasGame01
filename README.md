@@ -27,14 +27,7 @@ Jcerelus Dev All Rights Reserved
 Developer : Jean F. CÉRÉLUS
 
 
- little Examples :
-
-<a href="https://youtu.be/oorf3LWWDLk">Platformer</a>
-
-Side scroller with enemy patrolling ability
-
-<a href="https://youtu.be/XIEtt4GH_Mo">SideScroller</a>
-
+ 
 Test Poly-invaders game .
 Mobile Chrome browser only
 
