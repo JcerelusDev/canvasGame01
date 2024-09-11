@@ -35,9 +35,10 @@ Side scroller with enemy patrolling ability
 
 <a href="https://youtu.be/XIEtt4GH_Mo">SideScroller</a>
 
-Space invaders made with polygons
+Test Poly-invaders game .
+Mobile Chrome browser only
 
-
-<a href="https://vm.tiktok.com/ZM2b7L82F">Polygon based Space-invaders</a>
+<a href="https://poly-invaders.netlify.app/
+">Polygon based Space-invaders</a>
 
 
